@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.camera.view.PreviewView
+        android:layout_width="match_parent"
+        android:id="@+id/camera_preview"
+        android:layout_height="match_parent"
+        app:scaleType="fillStart"
+        >
+    </androidx.camera.view.PreviewView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="resultado"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:id="@+id/txtResult"
+        >
+    </TextView>
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/imgPreview"
+
+        >
+    </ImageView>
+
+
+
+</RelativeLayout>
