@@ -239,8 +239,7 @@ class ClassifyImageTf(context:Context) {
         returnInterpreter.classify(confidence, maxPos)
     }
 }
-    
-     ```
+```
      
      
    
