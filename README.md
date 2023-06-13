@@ -30,9 +30,9 @@
     
    ```
    
-   MainAcitivy
+   MainActivity
    
-     ```kotlin
+```kotlin
       
 class MainActivity : AppCompatActivity() {
 
@@ -123,7 +123,7 @@ class MainActivity : AppCompatActivity() {
 
 }
       
- ```
+```
  
  
   ```kotlin
