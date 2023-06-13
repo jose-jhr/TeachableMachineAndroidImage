@@ -28,8 +28,10 @@
         mlModelBinding true
     }
     
-     ```
-     
+   ```
+   
+   MainAcitivy
+   
      ```kotlin
       
 class MainActivity : AppCompatActivity() {
