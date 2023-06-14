@@ -242,6 +242,10 @@ class ClassifyImageTf(context:Context) {
 ```
      
      
+     ![image](https://github.com/jose-jhr/TeachableMachineAndroidImage/assets/66834393/1d04152b-e733-4415-ad09-312b7bb0da30)
+![image](https://github.com/jose-jhr/TeachableMachineAndroidImage/assets/66834393/755a5bdd-0330-496f-9527-0f34cb0b2041)
+
+     
    
  
  
