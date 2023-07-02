@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         const val OUTPUT_SIZE = 3 // Número de etiquetas de salida
     }
 
-    val classes = arrayOf("ON", "OFF", "NORMAL")
+    val classes = arrayOf("IRON","PELOTICA","NORMAL")
 
     //224 x 224
     override fun onCreate(savedInstanceState: Bundle?) {
